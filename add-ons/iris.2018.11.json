@@ -76,6 +76,15 @@
       "status": "approved"
     }
   },
+  "add-ons": {
+    "iris": {
+      "description": "Iris Conformance",
+      "components": [
+        { "name": "os_powered_compute_without_volumes" }
+      ],
+      "required_platform_components": []
+    }
+  },
   "components":{
     "os_powered_compute_without_volumes": {
       "capabilities": {
