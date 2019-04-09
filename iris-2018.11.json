@@ -99,7 +99,7 @@
     "OpenStack Powered Compute Without Volumes": {
       "description": "Core OpenStack object storage services including identity and object storage.",
       "components": [
-        { "name": "os_powered_compute_with_volumes" }
+        { "name": "os_powered_compute_without_volumes" }
       ]
     }
   },
