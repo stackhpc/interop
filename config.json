@@ -4,7 +4,7 @@
             "platform": "OpenStack Powered Platform",
             "compute": "OpenStack Powered Compute",
             "object": "OpenStack Powered Storage",
-            "iris": "iris interop",
+            "iris": "OpenStack Powered Compute Without Volumes",
             "dns": "OpenStack with DNS",
             "orchestration": "OpenStack with Orchestration"
         },
